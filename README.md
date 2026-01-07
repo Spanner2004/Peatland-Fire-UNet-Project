@@ -1,5 +1,6 @@
 # Peatland-Fire-UNet-Project
 Physics industry project with Airbus to design a U-Net that can segment and predict Peatland fires.
+
 **Statement of Code Development**:
 This processing and model pipeline was developed using Python 3.9. The deep learning architec-
 ture is based on the U-Net Convolutional Neural Network (Ronneberger et al., 2015), specifically
